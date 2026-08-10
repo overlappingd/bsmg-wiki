@@ -32,6 +32,10 @@ Camellia is SourPls
 
 </AboutLinks>
 
+## iSmellFood
+
+**Roles:** Moderator, 3D Artists
+
 ## oli
 
 **Roles:** Moderator
@@ -151,10 +155,6 @@ Pepega
 "Came for the game, Stayed for the hugs"
 
 **Roles:** Mapper, Moderator (Retired)
-
-### iSmellFood
-
-**Roles:** Moderator (Retired), 3D Artists
 
 ### Jalapeña
 
