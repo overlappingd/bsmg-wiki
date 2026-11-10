@@ -14,7 +14,7 @@ Mapping sometimes. Browsing general alltimes. Currently a Global Ambassador for 
 the largest virtual events ever, they have the Guinness records for it. If I'm not here then I'm likely on VRChat
 or playing board games. Or both!
 
-**Roles:** Moderator, Mapper
+**Roles:** Mapper, Moderator
 
 <AboutLinks>
 
