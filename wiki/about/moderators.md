@@ -10,7 +10,17 @@ You can thank this team for keeping the streets clean.
 
 ## BombardToo
 
-**Roles:** Moderator
+Mapping sometimes. Browsing general alltimes. Currently a Global Ambassador for Virtual Market, which is like one of
+the largest virtual events ever they have the Guinness records for it. If I'm not here then I'm likely on VRChat
+or playing board games. Or both!
+
+**Roles:** Moderator, Mapper
+
+<AboutLinks>
+
+[Twitter](https://x.com/BombardToo)
+
+</AboutLinks>
 
 ## Cyn
 
