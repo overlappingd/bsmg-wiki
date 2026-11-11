@@ -62,8 +62,8 @@ Camellia is SourPls
 
 ## overlap
 
-Has the amateur expertise to code JavaScript stuff but has no ideas. Balances out his
-free time, workaholic addiction, and funk addiction by helping with PCVR mods.
+They're prepared to fight back if an army of channel monitor bots swarm in, and they'll irradiate your ears with as much
+40's jazz as you can take. Or more.
 
 **Roles:** Moderator, Support
 
@@ -201,7 +201,7 @@ While I enjoy peace and quiet, I also enjoy looking out for people. I'm not dead
 
 <AboutLinks>
 
-[Github](https://github.com/IAMDEDJUSTTOGETFILES)
+[GitHub](https://github.com/IAMDEDJUSTTOGETFILES)
 
 </AboutLinks>
 
