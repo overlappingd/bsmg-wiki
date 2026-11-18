@@ -18,7 +18,7 @@ or playing board games. Or both!
 
 <AboutLinks>
 
-[Twitter](https://x.com/BombardToo)
+[Twitter](https://twitter.com/BombardToo)
 
 </AboutLinks>
 
