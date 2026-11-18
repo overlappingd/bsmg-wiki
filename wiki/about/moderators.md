@@ -58,6 +58,8 @@ Camellia is SourPls
 
 ## iSmellFood
 
+Used to be good at the game, now washed. You might know me from my custom sabers :)
+
 **Roles:** Moderator, 3D Artists
 
 ## overlap
