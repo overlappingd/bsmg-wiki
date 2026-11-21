@@ -197,7 +197,7 @@ Pepega
 
 ### Jalapeña
 
-While I enjoy peace and quiet, I also enjoy looking out for people. I'm not dead.
+Diva retired 💋
 
 **Roles:** Moderator (Retired), Support
 
