@@ -215,7 +215,7 @@ A very helpful individual
 
 [Razor](./moderators.md#razor), [Chara\_](./moderators.md#chara),
 [Burrito](./moderators.md#burrito), [OneEyed](./moderators.md#oneeyed), [Storm](./moderators.md#storm),
-[Delta984](./moderators.md#delta984), [overlap](./moderators.md#overlap), [fqrb](./moderators.md#fqrb). [oli](./moderators.md#oli)
+[Delta984](./moderators.md#delta984), [overlap](./moderators.md#overlap), [fqrb](./moderators.md#fqrb), [oli](./moderators.md#oli)
 
 ### Staff
 
