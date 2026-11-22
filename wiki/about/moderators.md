@@ -103,6 +103,8 @@ kinda vibing
 
 ## Yluem
 
+Model maker and student with a side project of music
+
 **Roles:** Moderator, 3D Artists
 
 ## === Retired ===
